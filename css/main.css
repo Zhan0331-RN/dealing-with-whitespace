@@ -31,7 +31,7 @@ article h1 {
   font-weight: lighter;
   margin-bottom: 0;
   line-height: 0;
-  padding-top: 19px;
+  padding-top: 16px;
 }
 
 article header p {
@@ -53,6 +53,7 @@ article p {
 article ol {
   padding-left: 18px;
   text-align: left;
+
 }
 
 blockquote {
@@ -64,4 +65,10 @@ blockquote {
 .quote {
   width: 60%;
 
+}
+
+article p:last-child
+{
+  border-bottom: 1px solid;
+  padding-bottom: 20px;
 }
