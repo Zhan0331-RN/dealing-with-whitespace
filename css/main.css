@@ -31,7 +31,7 @@ article h1 {
   font-weight: lighter;
   margin-bottom: 0;
   line-height: 0;
-  padding-top: 15px;
+  padding-top: 19px;
 }
 
 article header p {
@@ -61,4 +61,13 @@ blockquote {
 
 .quote {
   width: 60%;
+}
+
+div:after {
+  content:"article"
+  position:absolute;
+  left:0;
+  right:0;
+  bottom: 20px;
+  border-bottom: 1px solid;
 }
