@@ -27,9 +27,9 @@ article {
 }
 
 article h1 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: normal;
-  padding-top: 0;
+  padding-top: .2em;
   margin-bottom: 0;
   margin-left: 0;
 }
@@ -47,37 +47,55 @@ article header {
 article header p {
   font-style: italic;
   margin-top: .3rem;
-  font-size: .94rem;
+  font-size: .88rem;
 }
 
 article p {
   font-family: "Crimson Text", sans-serif;
   font-size: .9rem;
+  line-height: 1.24;
+  font-weight: lighter;
 }
 
 article ol {
   text-align: left;
-  padding-top: 10px;
   padding-left: 1rem;
+}
+
+article ol li {
+  font-size: .88rem;
+  line-height: 1.28em;
 }
 
 blockquote {
   color: #555;
   font-size: .9rem;
   font-weight: inherit;
+  margin-top: 1.5em;
+  line-height: 2;
 }
 
 .quote {
   font-weight: lighter;
   color: #999;
-  font-size: .9rem;
+  font-size: 1.125rem;
+}
+
+article p:nth-child(3) {
+  line-height: 1.25em;
+  padding-top: .22rem;
 }
 
 article p:nth-child(5) {
-  padding-top:1rem;
+  margin-top: 2.8rem;
+}
+
+article p:nth-child(6) {
+  margin-top: 1.45em;
 }
 
 article p:nth-child(8) {
   border-bottom: 1px solid;
   padding-bottom: 20px;
+  padding-top: .2em;
 }
