@@ -41,7 +41,7 @@ article header {
   line-height: 1.1;
   padding-top: 0;
   border-bottom: .8px solid #999;
-  padding-bottom: .4rem;
+  padding-bottom: .3rem;
 }
 
 article header p {
@@ -63,14 +63,14 @@ article ol {
 
 blockquote {
   color: #555;
-  font-size: .95rem;
+  font-size: 1rem;
   font-weight: inherit;
 }
 
 .quote {
   font-weight: lighter;
   color: #999;
-  font-size: .9rem;
+  font-size: 1rem;
 }
 
 article p:nth-child(8) {
