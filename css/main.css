@@ -16,7 +16,8 @@ body {
   padding-left: 1rem;
   padding-right: 1rem;
   margin: 0;
-  font-size: 1.125rem;
+  font-size: 1em;
+  color: #999
 }
 
 article {
@@ -59,7 +60,7 @@ article ol {
 }
 
 blockquote {
-  color: #999;
+  color: #555;
   font-size: 1.13rem;
   padding-top: 0;
   padding-bottom: 0;
