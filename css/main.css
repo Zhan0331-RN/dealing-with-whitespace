@@ -45,7 +45,7 @@ article header p {
   padding-top: 0;
   font-style: italic;
   border-bottom: 1px solid;
-  padding-bottom: 32px;
+  padding-bottom: 30px;
 }
 
 article p {
@@ -65,7 +65,7 @@ blockquote {
   font-size: 1.125rem;
   padding-top: 0;
   padding-bottom: 0;
-  width: 50%;
+  width: 55%;
   text-align: left;
 }
 
