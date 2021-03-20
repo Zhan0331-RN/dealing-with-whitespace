@@ -21,7 +21,7 @@ body {
 
 article {
   color: #222;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 article header {
@@ -55,7 +55,7 @@ article p {
 article ol {
   padding-left: 18px;
   text-align: left;
-  padding-top:7px;
+  padding-top: 7px;
 }
 
 blockquote {
