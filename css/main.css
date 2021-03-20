@@ -76,6 +76,10 @@ blockquote {
   font-weight: lighter;
 }
 
+article p:nth-child(5){
+  line-height: 1;
+}
+
 article p:nth-child(8) {
   border-bottom: 1px solid;
   padding-bottom: 20px;
