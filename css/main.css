@@ -23,7 +23,7 @@ article {
 }
 
 article header {
- color: #555;
+  color: #555;
 }
 
 article h1 {
@@ -31,7 +31,7 @@ article h1 {
   font-weight: lighter;
   margin-bottom: 0;
   line-height: 0;
-  padding-top: 18px;
+  padding-top: 15px;
 }
 
 article header p {
