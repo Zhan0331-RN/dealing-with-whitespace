@@ -57,7 +57,7 @@ article p {
 
 article ol {
   text-align: left;
-  padding-top: 7px;
+  padding-top: 10px;
   padding-left: 1rem;
 }
 
@@ -70,7 +70,7 @@ blockquote {
 .quote {
   font-weight: lighter;
   color: #999;
-  font-size: .rem;
+  font-size: .9rem;
 }
 
 article p:nth-child(5) {
