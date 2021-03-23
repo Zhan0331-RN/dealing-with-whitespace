@@ -72,11 +72,11 @@ blockquote {
   font-size: 1.125rem;
   margin-top: 1.5em;
   line-height: 2;
-  color: #999;
 }
 
 .quote {
   font-size: 1.125rem;
+  color: #999;
 }
 
 article p:nth-child(3) {
