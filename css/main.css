@@ -37,20 +37,20 @@ article h1 {
 article header {
   font-size: 1.5rem;
   text-align: left;
-  margin: .1em;
+  margin: 0 0 1.3rem;
   line-height: 1.1;
-  padding-top: 0;
+  padding: 1.3rem 0;
   border-bottom: .8px solid #999;
   padding-bottom: .3rem;
 }
 
 article header p {
+  margin: 0;
   font-style: italic;
-  margin-top: .3rem;
-  font-size: .88rem;
 }
 
 article p {
+  margin: 0 0 1.3rem;
   font-family: "Crimson Text", sans-serif;
   font-size: .9rem;
   line-height: 1.24;
@@ -92,8 +92,7 @@ article p:nth-child(6) {
   margin-top: 1.45em;
 }
 
-article p:nth-child(8) {
-  border-bottom: 1px solid;
-  padding-bottom: 20px;
-  padding-top: .2em;
+article p:last-child {
+  padding-bottom: 1.3rem;
+  border-bottom: 1px solid #999;
 }
