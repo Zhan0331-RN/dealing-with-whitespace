@@ -69,15 +69,13 @@ article ol li {
 
 blockquote {
   color: #555;
-  font-size: .9rem;
-  font-weight: inherit;
+  font-size: 1.125rem;
   margin-top: 1.5em;
   line-height: 2;
+  color: #999;
 }
 
 .quote {
-  font-weight: lighter;
-  color: #999;
   font-size: 1.125rem;
 }
 
